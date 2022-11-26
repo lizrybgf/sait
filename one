@@ -1,0 +1,20 @@
+<!DOSTYPE html>
+<html>
+<head>
+<title>Мероприятие</title>#Название вкладки
+</head>
+<body background="color: blue">
+<h1 align="center"><b>Внимание, внимание! Конкурс!</b></h1>
+<br>
+<h2 align="left"><font color="yellow"><u>Подробное описание конкурса и критериев оценивания.</u></font></h2>
+<h3 align="left"><font color="yellow"><a href="https://youtu.be/_09ylQTc0WY"><u>Посмотрите тут:</u></a></font></h3>
+<br>
+<h4 align="left"><font color="red">Ниже - работы участников:</font><h4>
+<br>
+<table>
+<tr>
+<td ></td>
+</tr>
+</table>
+</body>
+</html>
